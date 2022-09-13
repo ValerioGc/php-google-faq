@@ -67,8 +67,8 @@
                     <li>
                         <a href="#">Tecnologie</a>
                     </li>
-                    <li>
-                        <a class="active" href="#">Domande frequenti</a>
+                    <li class="active" >
+                        <a href="#">Domande frequenti</a>
                     </li>
                 </ul>
             </nav>
@@ -88,30 +88,32 @@
             </ul>
         </main>
         <footer>
-            <div>
-                <ul>
-                    <li class="footer-link">
-                        <a href="#">Google</a>
-                    </li>
-                    <li class="footer-link">
-                        <a href="#">Tutto su Google</a>
-                    </li>
-                    <li class="footer-link">
-                        <a href="#">Privacy</a>
-                    </li>
-                    <li class="footer-link">
-                        <a href="#">Termini</a>
-                    </li>
-                </ul>
-            </div>
-            <div>
-                <i class="fa-solid fa-language"></i>
-                <select name="lang" id="lang">
-                    <option value="Italiano">Italiano</option>
-                    <option value="Inglese">Inglese</option>
-                    <option value="Inglese">Francese</option>
-                    <option value="Inglese">Spagnolo</option>
-                </select>
+            <div class="foot-container">
+                <div>
+                    <ul>
+                        <li class="footer-link">
+                            <a href="#">Google</a>
+                        </li>
+                        <li class="footer-link">
+                            <a href="#">Tutto su Google</a>
+                        </li>
+                        <li class="footer-link">
+                            <a href="#">Privacy</a>
+                        </li>
+                        <li class="footer-link">
+                            <a href="#">Termini</a>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <i class="fa-solid fa-language"></i>
+                    <select name="lang" id="lang">
+                        <option value="Italiano">Italiano</option>
+                        <option value="Inglese">Inglese</option>
+                        <option value="Inglese">Francese</option>
+                        <option value="Inglese">Spagnolo</option>
+                    </select>
+                </div>
             </div>
         </footer>
     </body>
