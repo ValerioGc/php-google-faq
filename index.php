@@ -6,6 +6,7 @@
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Google FAQ</title>
         <link rel="stylesheet" href="style/style.css">
+        <link href="http://fonts.cdnfonts.com/css/google-sans" rel="stylesheet">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     </head>
     <body>
@@ -41,14 +42,14 @@
         <header>
             <div class="header-top">
                 <div>
-                    <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Logo  Google">
-                    <a href="#">
+                    <img class="logo v-align-md" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Logo  Google">
+                    <a href="#" class="v-align-md">
                         <h1 class="page-name">Privacy e termini</h1>
                     </a>
                 </div>
-                <div>
-                    <i class="fa-solid fa-grip"></i>
-                    <a href="#">
+                <div class="l-header">
+                    <i class="v-align-md fa-solid fa-grip fa-2x"></i>
+                    <a href="#" class="v-align-md">
                         <img class="user-avatar" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Missing_avatar.svg" alt="Button app">
                     </a>
                 </div>
