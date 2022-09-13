@@ -79,11 +79,13 @@ nav ul li:hover {
 /*********** MAIN *********/
 main {
     padding: 3rem 0;
+    color: var(--secondary-alt-color);
 }
 
 main h2 {
     font-size: 2rem;
     padding: 2.3rem 0 1.3rem;
+    color: var(--primary-color);
 }
 
 p {
