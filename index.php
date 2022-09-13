@@ -74,22 +74,18 @@
             </nav>
         </header>
         <main>
-
             <ul>
-                <li>
-                    <?php
+                <?php
 
-                        foreach ($db as $faqs) {
-                            "<h2>" . $faqs['title'] . "</h2>";
-                            "<h2>" . $faqs['text'] . "</h2>";
+                    foreach ($db as $faqs) {
+                        echo "<li>";
+                        echo "<h2>" . $faqs['title'] . "</h2>";
+                        echo "<p>" . $faqs['text'] . "</p>";
+                        echo "</li>";
+                    }
 
-                        }
-
-                        ?>
-
-                </li>
+                    ?>
             </ul>
-
         </main>
         <footer>
             <div>
@@ -113,9 +109,10 @@
                 <select name="lang" id="lang">
                     <option value="Italiano">Italiano</option>
                     <option value="Inglese">Inglese</option>
+                    <option value="Inglese">Francese</option>
+                    <option value="Inglese">Spagnolo</option>
                 </select>
             </div>
         </footer>
-
     </body>
 </html>
