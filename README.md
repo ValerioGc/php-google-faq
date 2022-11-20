@@ -18,7 +18,7 @@
         <img align="center" src="https://github.com/ValerioGc/ValerioGc/blob/64e651615d68fb71ddfe78c747f2913d1ec29607/assets/skills&tools/skills/html.svg" width="36" height="36" alt="HTML5" />
       </td>
       <td>
-          <img align="center" src="https://github.com/ValerioGc/ValerioGc/blob/64e651615d68fb71ddfe78c747f2913d1ec29607/assets/skills&tools/frameworks/sass.svg" width="36" height="36" align="center" alt="SASS" />
+          <img align="center" src="https://github.com/ValerioGc/ValerioGc/blob/64e651615d68fb71ddfe78c747f2913d1ec29607/assets/skills&tools/frameworks/css.svg" width="36" height="36" align="center" alt="SASS" />
       </td>
       <td>
         <img align="center" src="https://github.com/ValerioGc/ValerioGc/blob/64e651615d68fb71ddfe78c747f2913d1ec29607/assets/skills&tools/skills/php.svg" width="36" height="36" align="center" alt="PHP">
